@@ -1,7 +1,7 @@
 button {
     border: none;
     font-size: 20px;
-    margin-left: 34%;
+    margin-left: 35%;
     color: #A77E3D;
     margin-top: 20%;
 }
@@ -18,9 +18,10 @@ input[type=text] {
 
 .icon {
     display: flex;
-    width: 50%;
-    margin-left: 38%;
+    width: 25%;
+    margin-left: 37%;
     margin-top: 20px;
+    justify-content: space-between;
 }
 
 h1 {
@@ -28,7 +29,7 @@ h1 {
     letter-spacing: 1px;
     font-size: 13px;
     color: black;
-    margin-left: 37%;
+    margin-left: 36%;
     opacity: .5;
     margin-top: 20px;
 }
